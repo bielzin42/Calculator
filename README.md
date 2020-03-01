@@ -10,4 +10,4 @@ A Calculator project using bootstrap, CSS and Jscript.
 
 
 
-![Imgur](https://i.imgur.com/bUUgTwp.png)("project image")
+![Imgur](https://i.imgur.com/bUUgTwp.png)
